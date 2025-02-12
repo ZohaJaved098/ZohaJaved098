@@ -1,13 +1,12 @@
 - 👋 Hi, I’m Zoha Javed
 - 👀 I’m interested in Full Stack web development
-- 🌱 I’m currently learning backend development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working on Frontend development and learning backend development
 - 📫 How to reach me:
-
+  
   
   **Email me** : zohajaved.098@gmail.com
 
-  
+
   **Let connect on Linkedin** : https://www.linkedin.com/in/zoha-javed-1b5b2919a/
 - 😄 Pronouns: She/Her
 
